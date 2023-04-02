@@ -10,4 +10,6 @@ For next token prediction, the GPT-2 model takes a sequence of words as input an
 
 In this project, the GPT-2 model was fine-tuned on a part of the Amazon dataset (https://www.kaggle.com/datasets/praneshmukhopadhyay/amazon-questionanswer-dataset), which is a collection of questions and answers related to various products on Amazon. The distilled model was used to train a model on Google Colab GPUs.
 
+If you want the model weights of the experiment, have a look here: https://drive.google.com/drive/folders/10OFDbkTxHJhaN-oNMXCB9DU9bnj8-4X4?usp=share_link
+
 Thank you for checking out the sDolly prject!
